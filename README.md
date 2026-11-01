@@ -97,14 +97,6 @@ Identify the strongest churn drivers using model coefficients and propose realis
 
 ---
 
-## GitHub Repository Structure
-
-Follow this structure when uploading to GitHub:
-
-
-
----
-
 ## Future Improvements
 - Test ensemble non-linear models (Random Forest, XGBoost) to compare performance.
 - Implement hyperparameter tuning using GridSearchCV.
@@ -116,4 +108,6 @@ Follow this structure when uploading to GitHub:
 - **Program:** AIML Industry Readiness Program — Mini ML Project
 - **Trainer:** Aditya Dorwal
 - **Project:** Project 9 — Customer Churn Prediction
+- **Student name:** Puja Kumari
+- **Roll No:** 2023329
 
